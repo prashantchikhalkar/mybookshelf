@@ -1,4 +1,4 @@
-var app = angular.module('prashant'sBookshelf', []);
+var app = angular.module('myBookshelf', []);
 
 app.controller('BooksController', ['$scope', function($scope) {
 
