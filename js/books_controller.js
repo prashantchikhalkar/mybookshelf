@@ -11,6 +11,15 @@ app.controller('BooksController', ['$scope', function($scope) {
 			'mediumPostUrl': '',
 			'read': true
 		}
+		
+		{
+			'title': 'Getting Things Done: The Art of Stress-free Productivity',
+			'author': 'David Allen',
+			'url': 'https://www.amazon.in/Getting-Things-Done-Stress-free-Productivity/dp/0349410151',
+			'hasMediumPost': false,
+			'mediumPostUrl': '',
+			'read': true
+		}
 	];
 
 }]);
