@@ -10,7 +10,7 @@ app.controller('BooksController', ['$scope', function($scope) {
 			'hasMediumPost': false,
 			'mediumPostUrl': '',
 			'read': true
-		},
+		}
 	];
 
 }]);
