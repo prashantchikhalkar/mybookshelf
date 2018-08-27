@@ -10,7 +10,7 @@ app.controller('BooksController', ['$scope', function($scope) {
 			'hasMediumPost': false,
 			'mediumPostUrl': '',
 			'read': true
-		}
+		},
 		
 		{
 			'title': 'Getting Things Done: The Art of Stress-free Productivity',
@@ -19,7 +19,7 @@ app.controller('BooksController', ['$scope', function($scope) {
 			'hasMediumPost': false,
 			'mediumPostUrl': '',
 			'read': true
-		}
+		},
 		
 		{
 			'title': 'Rich Dad Poor Dad: What the Rich Teach their Kids About Money that the Poor and Middle Class Do Not!',
@@ -28,7 +28,7 @@ app.controller('BooksController', ['$scope', function($scope) {
 			'hasMediumPost': false,
 			'mediumPostUrl': '',
 			'read': true
-		}
+		},
 		
 		{
 			'title': 'The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living: Featuring new translations of Seneca, Epictetus, and Marcus Aurelius',
