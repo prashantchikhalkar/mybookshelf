@@ -10,7 +10,7 @@ app.controller('BooksController', ['$scope', function($scope) {
 			'hasMediumPost': false,
 			'mediumPostUrl': '',
 			'read': true
-		},
+		}/*,
 		
 		{
 			'title': 'Getting Things Done: The Art of Stress-free Productivity',
@@ -38,6 +38,7 @@ app.controller('BooksController', ['$scope', function($scope) {
 			'mediumPostUrl': '',
 			'read': false
 		}
+		*/
 	];
 
 }]);
