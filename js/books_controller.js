@@ -36,7 +36,7 @@ app.controller('BooksController', ['$scope', function($scope) {
 			'url': 'https://www.amazon.in/Daily-Stoic-Meditations-Perseverance-translations/dp/1781257655',
 			'hasMediumPost': false,
 			'mediumPostUrl': '',
-			'read': true
+			'read': false
 		}
 	];
 
