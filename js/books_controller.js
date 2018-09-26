@@ -31,6 +31,15 @@ app.controller('BooksController', ['$scope', function($scope) {
 		},
 		
 		{
+			'title': 'Deep Work: Rules for Focused Success in a Distracted World',
+			'author': 'Cal Newport',
+			'url': 'https://www.amazon.in/Deep-Work-Focused-Success-Distracted/dp/0349413681',
+			'hasMediumPost': false,
+			'mediumPostUrl': '',
+			'read': true
+		},
+		
+		{
 			'title': 'The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living: Featuring new translations of Seneca, Epictetus, and Marcus Aurelius',
 			'author': 'Ryan Holiday',
 			'url': 'https://www.amazon.in/Daily-Stoic-Meditations-Perseverance-translations/dp/1781257655',
