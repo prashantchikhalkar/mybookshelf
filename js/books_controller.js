@@ -46,7 +46,7 @@ app.controller('BooksController', ['$scope', function($scope) {
 			'hasMediumPost': false,
 			'mediumPostUrl': '',
 			'read': false
-		}
+		},
 		
 		{
 			'title': 'Who was Shivaji?',
@@ -55,7 +55,7 @@ app.controller('BooksController', ['$scope', function($scope) {
 			'hasMediumPost': false,
 			'mediumPostUrl': '',
 			'read': false
-		}
+		},
 		
 		{
 			'title': 'Unf*ck Yourself: Get Out of Your Head and into Your Life',
