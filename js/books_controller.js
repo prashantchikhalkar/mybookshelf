@@ -45,7 +45,7 @@ app.controller('BooksController', ['$scope', function($scope) {
 			'url': 'https://www.amazon.in/Daily-Stoic-Meditations-Perseverance-translations/dp/1781257655',
 			'hasMediumPost': false,
 			'mediumPostUrl': '',
-			'read': false
+			'read': true
 		},
 		
 		{
@@ -54,7 +54,7 @@ app.controller('BooksController', ['$scope', function($scope) {
 			'url': 'https://www.amazon.in/Shivaji-Anirudh-Deshpande-Prabhat-Patnaik/dp/9380118139',
 			'hasMediumPost': false,
 			'mediumPostUrl': '',
-			'read': false
+			'read': true
 		},
 		
 		{
@@ -63,7 +63,7 @@ app.controller('BooksController', ['$scope', function($scope) {
 			'url': 'https://www.amazon.in/Unf-Yourself-Your-Head-into/dp/1473671566',
 			'hasMediumPost': false,
 			'mediumPostUrl': '',
-			'read': false
+			'read': true
 		},
 	];
 
