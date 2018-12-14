@@ -56,6 +56,15 @@ app.controller('BooksController', ['$scope', function($scope) {
 			'mediumPostUrl': '',
 			'read': false
 		}
+		
+		{
+			'title': 'Unf*ck Yourself: Get Out of Your Head and into Your Life',
+			'author': 'Gary John Bishop',
+			'url': 'https://www.amazon.in/Unf-Yourself-Your-Head-into/dp/1473671566',
+			'hasMediumPost': false,
+			'mediumPostUrl': '',
+			'read': false
+		}
 	];
 
 }]);
