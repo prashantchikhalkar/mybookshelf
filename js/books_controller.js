@@ -47,6 +47,15 @@ app.controller('BooksController', ['$scope', function($scope) {
 			'mediumPostUrl': '',
 			'read': false
 		}
+		
+		{
+			'title': 'Who was Shivaji?',
+			'author': 'Govind Pansare',
+			'url': 'https://www.amazon.in/Shivaji-Anirudh-Deshpande-Prabhat-Patnaik/dp/9380118139',
+			'hasMediumPost': false,
+			'mediumPostUrl': '',
+			'read': false
+		}
 	];
 
 }]);
